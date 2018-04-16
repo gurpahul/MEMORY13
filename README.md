@@ -20,7 +20,6 @@
 ### ISSUES
 * Not any major issues, however it stucks some time.
 * JS file have too many comments.
-* 
 
 ### AUTHOR
 GURPAHUL SINGH
