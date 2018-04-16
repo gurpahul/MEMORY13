@@ -11,9 +11,9 @@
 
 ### HOW TO PLAY THE GAME
 * You can select any two cards at one time.
-* If your first card matches with the seconf one it will stay open else they will close.
+* If your first card matches with the secon one it will stay open otherwise, they will close.
 * Matched and unmatched cards will show different different colours.
-* If all 8 pairs of cards matched, The user will won.
+* If all 8 pairs of cards matched, A pop-up message will be show
 * All your Moves will be shown on the moves section.
-*
+* Restart button will allow you to restart the button.
 
