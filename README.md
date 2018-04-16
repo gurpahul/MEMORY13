@@ -9,3 +9,6 @@
 * It also have a restart button which will retart the game from starting.
 * The moves section will show the amount of moves that a user perform.
 
+### HOW TO PLAY THE GAME
+* You can 
+
