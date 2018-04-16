@@ -10,5 +10,10 @@
 * The moves section will show the amount of moves that a user perform.
 
 ### HOW TO PLAY THE GAME
-* You can 
+* You can select any two cards at one time.
+* If your first card matches with the seconf one it will stay open else they will close.
+* Matched and unmatched cards will show different different colours.
+* If all 8 pairs of cards matched, The user will won.
+* All your Moves will be shown on the moves section.
+*
 
