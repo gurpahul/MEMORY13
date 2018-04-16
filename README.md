@@ -6,4 +6,6 @@
 ### PARTS OF GAME
 * There are total 16 cards that can you select.
 * You can select not more then Two cards at a time.
-* If all card matches yo uwon the game.
+* It also have a restart button which will retart the game from starting.
+* The moves section will show the amount of moves that a user perform.
+
