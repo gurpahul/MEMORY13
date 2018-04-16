@@ -17,3 +17,10 @@
 * All your Moves will be shown on the moves section.
 * Restart button will allow you to restart the button.
 
+### ISSUES
+* Not any major issues, however it stucks some time.
+* JS file have too many comments.
+* 
+
+### AUTHOR
+GURPAHUL SINGH
