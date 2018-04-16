@@ -1,7 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 
 # MEMORY GAME 
-gskgshfsdsgajfsdagasgd
+* This game has total 16 cards and the you can select any card of his choise. If all cards matches you won the game. You can see your moves   count in the moves section.The game will be reseted by clicking the reset button on the top  
 <img width="235px" src="https://raw.githubusercontent.com/gurpahul/MEMORY13/master/Animated%20GIF-downsized_large%20(1).gif">
 
 
