@@ -22,7 +22,7 @@ deck.addEventListener('click' , function(e){// on deck a event listner is applie
                     }                                              // esle bracket closed. 
                     cards = []; // after 2 elements are in array called cards we have to empty that one because user will be able to select 2                  // cards again. 
                     if(matchClass.length===allCards.length ){ //if all match class cards will have the length equal to cards.  
-                        alert("YOU WON");                     //then it will show the massage called YOU WON.
+                        alert("GURPAHUL SINGH SAYS YOU WON");                     //then it will show the massage called YOU WON.
                     }                                         // ending of if statement bracket.
                 },1000)//assignment of the time of 1 sec for which program was stopped so the user can see the flipping process if 2 cards !same. 
                 moveIt.textContent++; // this will add 1 each time when 2 cards are selected at one time.
